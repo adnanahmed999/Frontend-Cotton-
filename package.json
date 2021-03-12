@@ -1,0 +1,25 @@
+{
+  "name": "cotton-farmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshal0506/tinder-dog.git"
+  },
+  "author": "Harshal Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshal0506/tinder-dog/issues"
+  },
+  "homepage": "https://github.com/Harshal0506/tinder-dog#readme"
+}
